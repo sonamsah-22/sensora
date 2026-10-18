@@ -259,5 +259,5 @@ On a hosting service such as Render, create a Web Service from the repository us
 
 **Team EUREKA** 
 1.Sonam Sah
-2.Shivtej Nvale
+2.Shivtej Navale
 3.Ritesh Bhakare
